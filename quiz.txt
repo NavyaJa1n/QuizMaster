@@ -1,0 +1,5 @@
+What is the capital of France?|Paris
+Who wrote 'To Kill a Mockingbird'?|Harper Lee
+What is the square root of 64?|8
+What is the largest planet in our solar system?|Jupiter
+Who painted the Mona Lisa?|Leonardo da Vinci
